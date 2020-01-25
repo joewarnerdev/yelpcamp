@@ -1,0 +1,40 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+#cgdel {
+    float: right;
+}
+
+.login-text {
+    text-align: center;
+}
+
+.login-form {
+    width: 30%;
+    margin: 25px auto;
+}
+
+#forgot-pw {
+    float: right;
+}
+
+#search-bar {
+    text-align: center;
+}
+
+.checked {
+    color: orange;
+}
